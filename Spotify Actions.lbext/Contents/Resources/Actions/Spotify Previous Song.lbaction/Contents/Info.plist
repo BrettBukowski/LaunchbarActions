@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key>
+  <string>com.brettbukowski.LaunchBar.actions.spotify.previousSong</string>
+  <key>CFBundleIconFile</key>
+  <string>/Applications/Spotify.app/Contents/Resources/icon.icns</string>
+  <key>CFBundleName</key>
+  <string>Spotify Actions: Previous Song</string>
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>LBAbbreviation</key>
+  <string>spb</string>
+  <key>LBScripts</key>
+  <dict>
+    <key>LBDefaultScript</key>
+    <dict>
+      <key>LBScriptName</key>
+      <string>Previous Song.scpt</string>
+      <key>LBRunInBackground</key>
+      <true/>
+    </dict>
+  </dict>
+  <key>LBDescription</key>
+  <dict>
+    <key>LBSummary</key>
+    <string>Go back to the previous song in Spotify.app</string>
+    <key>LBAuthor</key>
+    <string>Brett Bukowski</string>
+    <key>LBEmail</key>
+    <string>brett.bukowski@gmail.com</string>
+    <key>LBWebsite</key>
+    <string>http://brettbukowski.com</string>
+    <key>LBTwitter</key>
+    <string>@BrettBukowski</string>
+  </dict>
+</dict>
+</plist>

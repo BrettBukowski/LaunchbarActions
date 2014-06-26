@@ -9,7 +9,10 @@ Actions for LaunchBar 6
     - Play / Pause
     - Skip Ahead
     - Mark as Played
-
+3. Spotify.app actions
+    - Play / Pause
+    - Next Song
+    - Previous Song
 
 ### Installing
 
