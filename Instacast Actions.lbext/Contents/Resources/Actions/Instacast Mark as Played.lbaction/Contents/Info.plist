@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key>
+  <string>com.brettbukowski.LaunchBar.actions.instacast.markAsPlayed</string>
+  <key>CFBundleIconFile</key>
+  <string>/Applications/Instacast.app/Contents/Resources/Instacast.icns</string>
+  <key>CFBundleName</key>
+  <string>Instacast Actions: Mark as Played</string>
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>LBAbbreviation</key>
+  <string>insm</string>
+  <key>LBScripts</key>
+  <dict>
+    <key>LBDefaultScript</key>
+    <dict>
+      <key>LBScriptName</key>
+      <string>Mark as Played.scpt</string>
+      <key>LBRunInBackground</key>
+      <true/>
+    </dict>
+  </dict>
+  <key>LBDescription</key>
+  <dict>
+    <key>LBSummary</key>
+    <string>Mark the selected episode in Instacast.app as played</string>
+    <key>LBAuthor</key>
+    <string>Brett Bukowski</string>
+    <key>LBEmail</key>
+    <string>brett.bukowski@gmail.com</string>
+    <key>LBWebsite</key>
+    <string>http://brettbukowski.com</string>
+    <key>LBTwitter</key>
+    <string>@BrettBukowski</string>
+  </dict>
+</dict>
+</plist>
