@@ -13,6 +13,9 @@ Actions for LaunchBar 6
     - Play / Pause
     - Next Song
     - Previous Song
+4. Backblaze.app actions
+    - Pause Sync
+    - Resume Sync
 
 ### Installing
 
