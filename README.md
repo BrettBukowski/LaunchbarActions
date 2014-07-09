@@ -16,6 +16,7 @@ Actions for LaunchBar 6
 4. Backblaze.app actions
     - Pause Sync
     - Resume Sync
+5. Show Desktop (hide all applications)
 
 ### Installing
 
