@@ -17,6 +17,7 @@ Actions for LaunchBar 6
     - Pause Sync
     - Resume Sync
 5. Show Desktop (hide all applications)
+6. Toggle AirPlay to Apple TV
 
 ### Installing
 
